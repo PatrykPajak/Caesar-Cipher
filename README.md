@@ -70,3 +70,5 @@ Decrypted message: Hello, World!
    ```bash
    python caesar_cipher.py
    ```
+   ## Author 
+Patryk Pajak
